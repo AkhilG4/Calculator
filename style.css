@@ -1,0 +1,21 @@
+.buttonsContainer {
+    display: flex;
+    background-color: antiquewhite;
+    flex-wrap: wrap;
+    max-width: 250px;
+    justify-content: center;
+    padding: 10px;
+}
+
+button {
+    width: 60px;
+    height: 60px;
+} 
+
+.display {
+    background-color: antiquewhite;
+    width: 250px;
+    padding: 10px;
+    text-align: right;
+    background-color: rgb(205, 242, 255);
+}
